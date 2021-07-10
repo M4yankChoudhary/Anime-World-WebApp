@@ -5,6 +5,7 @@ function Main() {
   return (
     <div className="LoginContainer">
       {/* browserRouter */}
+      <h1>Hello from Main</h1>
     </div>
   );
 }
